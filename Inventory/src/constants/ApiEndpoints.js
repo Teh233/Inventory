@@ -1,0 +1,12 @@
+export const USERS_URL = "/admin";
+export const PRODUCT_URL = "/robo-products/admin";
+export const CART_URL = "/cart";
+export const DetailsAndAddress_Url = "/seller-document/admin";
+export const ORDER_URL = "/seller-order/admin";
+export const SELLER_URL = "/auth/admin";
+export const RESTOCK_URL = "/restock/admin";
+export const VENDOR_URL = "/vendor/admin";
+export const BARCODE_URL = '/barcode'
+export const PRICEHISTORY_URL = '/prices-history/admin';
+export const DISCOUNT_QUERY = '/discount-queries';
+export const LOGISTICS_URL = '/logistics'
